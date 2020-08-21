@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on 123
-- 🌱 I’m currently learning 123
-- 👯 I’m looking to collaborate on 123
-- 🤔 I’m looking for help with 123
-- 💬 Ask me about 123
-- 📫 How to reach me: 123
-- 😄 Pronouns: 123
-- ⚡ Fun fact: 132
+- 🔭 I’m currently working on Sberbank
+- 🌱 I’m currently learning Nuxt
+- 📫 How to reach me: s.shurin94@gmail.com
+- ⚡ Fun fact: learning at 42 school
